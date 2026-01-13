@@ -16,8 +16,8 @@ AI Archive is an intelligent document processing system that reads **PDFs, Word 
 4. Summarize relevant pages or rows  
 
 ## 🖥 Interface
-![Loading](https://github.com/Ayyoubsghuri/blacklist-AI-archive/tree/main/images/loading.png)
-![Loading](https://github.com/Ayyoubsghuri/blacklist-AI-archive/tree/main/images/main.png)
+![Loading](https://github.com/Ayyoubsghuri/blacklist-AI-archive/tree/main/images/loading.png](https://github.com/Ayyoubsghuri/blacklist-AI-archive/blob/main/images/loading.png)
+![Loading](https://github.com/Ayyoubsghuri/blacklist-AI-archive/tree/main/images/main.png](https://github.com/Ayyoubsghuri/blacklist-AI-archive/blob/main/images/main.png)
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/your-repo/ai-archive
